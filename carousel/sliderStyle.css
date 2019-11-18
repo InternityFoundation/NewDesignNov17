@@ -1,0 +1,20 @@
+.carousel-item img{
+    height: 100vh;
+    widows: 100vh;
+}
+
+.carousel-control-next-icon, .carousel-control-prev-icon{
+    height:40px;
+    width: 40px;
+}
+
+.carousel-caption{
+    background-color: #544F4F;
+    color:white;
+    width: 100%;
+    left: 0;
+}
+
+.carousel-indicators{
+    margin-bottom: 25px;
+}
